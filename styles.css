@@ -46,6 +46,12 @@ h3 {
 ul {
     list-style-type: none;
 }
+.sc1 {
+    background-color: #2E2F42;
+}
+.sc3 {
+    background-color: #F4F4FD;
+}
 .logo {
     color: #4D5AE5;
     font-family: Raleway, sans-serif;
