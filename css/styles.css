@@ -11,9 +11,19 @@ body {
     
 }
 header {
-    background-color: #E7E9FC;
+    box-sizing: border-box;
+    width: 1140px;
+    height: 72px;
+    border: 1px;
+    text-align: justify;
 }
 footer {
+    box-sizing: border-box;
+    width: 264px;
+    height: 72px;
+    top: 1868px;
+    left: 156px;
+    border: 1px;
     background-color: #2E2F42;
 }
 footer>p {
@@ -29,6 +39,9 @@ h1 {
     font-weight: 700;
     line-height: 60px;
     background-color: #2E2F42;
+    padding: 100px;
+    margin: 100px;
+  border: 0px solid #000;
 }
 h2 {
     font-size: 36px;
@@ -47,10 +60,20 @@ ul {
     list-style-type: none;
 }
 .sc1 {
+    width: 496px;
+    height: 120px;
+    padding: 236px;
+    margin: 50px;
     background-color: #2E2F42;
+    text-align: center;
+    ;
 }
 .sc3 {
+    width: 1440px;
+    height: 732px;
+    top: 1016px;
     background-color: #F4F4FD;
+
 }
 .logo {
     color: #4D5AE5;
@@ -85,7 +108,6 @@ button {
 }
 a:hover, a:focus {
     color: #4D5AE5;
-    text-decoration: underline;
 }
 button:hover, button:focus {
     color: #434455;
