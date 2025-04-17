@@ -19,11 +19,9 @@ header {
 }
 footer {
     box-sizing: border-box;
-    width: 264px;
-    height: 72px;
-    top: 1868px;
-    left: 156px;
-    border: 1px;
+    width: 1440px;
+    height: 312px;
+    text-align: left;
     background-color: #2E2F42;
 }
 footer>p {
