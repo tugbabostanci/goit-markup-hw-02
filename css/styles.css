@@ -66,7 +66,6 @@ ul {
 }
 .sc3 {
     width: 1440px;
-    height: 732px;
     top: 1016px;
     background-color: #F4F4FD;
 
@@ -110,5 +109,5 @@ button:hover, button:focus {
     text-decoration: underline;
 }
 .logo:hover, .logo:focus{
-    text-decoration: underline;
+   color:#4D5AE5;
 }
