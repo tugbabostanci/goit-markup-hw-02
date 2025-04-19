@@ -114,8 +114,8 @@ button:hover, button:focus {
 }
 .card1, .card2, .card3, .card4 {
     background-color: white;
+    width: 264px;
+    height: 380px;
 
 }
-image {
-    margin-bottom: 0;
-}
+
